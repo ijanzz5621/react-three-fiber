@@ -7,7 +7,7 @@ Link:
 https://www.youtube.com/watch?v=pXpckHDDNYo&list=PLpepLKamtPjiUF6PvVUbIFhx9HaS0qJs_
 
 Stop At:
-0:56
+2:44
 
 
 1. Create a new project:
