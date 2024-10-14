@@ -1,0 +1,28 @@
+Tutorial Link:
+
+Title:
+React Three Fiber tutorial - Scroll Animations
+
+Link:
+https://www.youtube.com/watch?v=pXpckHDDNYo&list=PLpepLKamtPjiUF6PvVUbIFhx9HaS0qJs_
+
+Stop At:
+0:56
+
+
+1. Create a new project:
+
+    yarn create vite .
+
+2. Choose React -> Javascript
+
+3. Type "yarn" to build
+
+4. Type "yarn dev" to run
+
+5. Add yarn packages:
+
+    yarn add three @react-three/drei @react-three/fiber
+
+
+
